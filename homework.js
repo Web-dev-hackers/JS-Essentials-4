@@ -89,13 +89,7 @@ auther:"ikjomk",
      }
 return notes2;
  }
- var outp = map(notes,function(value, i){
-    console.log(i)
-    for(var a= 0; a<value.length; a++){
-        return notes;
-    }
- })
- console.log(outp);
+ 
 //2 create a new array called 'expensivePrograms'
 var expensivePrograms= filter([500,100,900.855,400,888], function(value,i) {
     
