@@ -2,7 +2,7 @@ console.log("homework.js file is linked enjoy your homework :)");
 
 //0.a create a variable called 'programs' it's an array of 5 objects
 //each object has these keys (name, content, location, period(by weeks), cost) cost range from 100 to 1000
-
+var programs =[{},{},{},{},{}]
 //0.b create an array called 'notes' contains 5 objects
 //each object has these keys (title, message, status: 'new', author))
 
