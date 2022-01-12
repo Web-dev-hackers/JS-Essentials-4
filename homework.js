@@ -89,7 +89,7 @@ auther:"ikjomk",
      }
 return notes2;
  }
- 
+ console.log(notes);
 //2 create a new array called 'expensivePrograms'
 var expensivePrograms= filter([500,100,900.855,400,888], function(value,i) {
     
